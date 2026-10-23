@@ -17,7 +17,13 @@
           "quickstart"
         ]
       },
-      "test-page"
+      "test-page",
+      {
+        "group": "Recipes",
+        "pages": [
+          "recipes/thin-steaks"
+        ]
+      }
     ],
     "global": {
       "anchors": [
